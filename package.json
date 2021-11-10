@@ -1,0 +1,14 @@
+{
+  "name": "timing-x-notion-bot",
+  "version": "1.0.0",
+  "description": "A bot script for automating time tracking entries",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Manny Ikomi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
